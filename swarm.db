@@ -1,0 +1,5 @@
+swarm-mce	2376/tcp
+swarm-mgt	2377/tcp
+swarm-com	7946/tcp
+swarm-com	7496/udp
+swarm-net	4789/udp
